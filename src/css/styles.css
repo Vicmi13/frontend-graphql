@@ -1,0 +1,21 @@
+.store-form {
+    width: 600px;
+    height: 500px;
+    border: black solid 2px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+input {
+    font-size: 0.7rem;
+}
+
+button {
+    color: coral;
+    font-style: italic;
+    background-color: gray;
+    font-size: 10px; 
+    width: 13vw;
+    height: 8vh;
+}
